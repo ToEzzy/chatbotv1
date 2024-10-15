@@ -63,7 +63,7 @@ function App() {
         <div className="max-w-4xl mx-auto flex items-center justify-between">
           <div className="flex items-center">
             <MessageCircle className="w-8 h-8 text-blue-500 mr-2" />
-            <h1 className="text-xl font-bold text-gray-800">ChatBot UI</h1>
+            <h1 className="text-xl font-bold text-gray-800">Novabot UI</h1>
           </div>
           <ApiKeyInput apiKey={apiKey} setApiKey={setApiKey} />
         </div>
